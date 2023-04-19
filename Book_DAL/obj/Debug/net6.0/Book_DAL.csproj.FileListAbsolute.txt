@@ -1,0 +1,28 @@
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\bin\Debug\net6.0\Book_DAL.deps.json
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\bin\Debug\net6.0\Book_DAL.dll
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\bin\Debug\net6.0\Book_DAL.pdb
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.csproj.AssemblyReference.cache
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.AssemblyInfoInputs.cache
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.AssemblyInfo.cs
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.csproj.CoreCompileInputs.cache
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.dll
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\refint\Book_DAL.dll
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.pdb
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\ref\Book_DAL.dll
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\bin\Debug\net6.0\Book_DAL.runtimeconfig.json
+C:\Users\bandi\OneDrive\Documents\HandsPipeline\Backend\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.genruntimeconfig.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\bin\Debug\net6.0\Book_DAL.deps.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\bin\Debug\net6.0\Book_DAL.runtimeconfig.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\bin\Debug\net6.0\Book_DAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\bin\Debug\net6.0\Book_DAL.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.csproj.AssemblyReference.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.AssemblyInfoInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.AssemblyInfo.cs
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.csproj.CoreCompileInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\refint\Book_DAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\Book_DAL.genruntimeconfig.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Book_ThreeTierArchitecture_API\Book_DAL\obj\Debug\net6.0\ref\Book_DAL.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Book_ThreeTierArchitecture_API.props" />
+</Project>
